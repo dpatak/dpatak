@@ -5,3 +5,5 @@ Nova zmena 6.11.2024
 Nova zmena 2.2.2025
 
 SKuska 3.2.2025
+
+Nove zmeny na Rebase example 22.5.2025
