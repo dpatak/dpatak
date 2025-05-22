@@ -1,3 +1,7 @@
 Test Git Quick Start demo
 
 Nova zmena 5.11.2024
+Nova zmena 6.11.2024
+Nova zmena 2.2.2025
+
+SKuska 3.2.2025
